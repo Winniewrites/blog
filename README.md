@@ -1,7 +1,6 @@
 # blog
 # My first Blog
-# Online System
-# Flexy
+# Online System # Flexy
 In this course we shall be building an online system called Flexy
 
 Task 1:
